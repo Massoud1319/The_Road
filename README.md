@@ -4,7 +4,7 @@
 ** first show the most popular tours and it's prices and common features of each tour
 ** then there is a model for stories of past clients showing it's photoes and opinins
 ** after that there is a form to contact them just sign up and leave message
-** => finally there is a quick lines at the bottom of your page
+** => finally there is a quick lines at the bottom of your page.
 
 
 ![overlay Links](https://user-images.githubusercontent.com/95444221/176518088-ca79f4e9-e57d-4e57-9956-e95318fe8da7.png)
